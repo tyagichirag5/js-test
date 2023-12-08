@@ -1,0 +1,3 @@
+// Singleton
+
+//Objects Literals
